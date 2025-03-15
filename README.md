@@ -11,6 +11,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/marindave/Leetcode-sol/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/marindave/Leetcode-sol/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/marindave/Leetcode-sol/tree/master/1791-richest-customer-wealth) |
+| [1833-find-the-highest-altitude](https://github.com/marindave/Leetcode-sol/tree/master/1833-find-the-highest-altitude) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/marindave/Leetcode-sol/tree/master/1603-running-sum-of-1d-array) |
+| [1833-find-the-highest-altitude](https://github.com/marindave/Leetcode-sol/tree/master/1833-find-the-highest-altitude) |
 ## Two Pointers
 |  |
 | ------- |
