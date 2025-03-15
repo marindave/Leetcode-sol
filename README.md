@@ -12,6 +12,7 @@
 | [1635-number-of-good-pairs](https://github.com/marindave/Leetcode-sol/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/marindave/Leetcode-sol/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/marindave/Leetcode-sol/tree/master/1833-find-the-highest-altitude) |
+| [2048-build-array-from-permutation](https://github.com/marindave/Leetcode-sol/tree/master/2048-build-array-from-permutation) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/marindave/Leetcode-sol/tree/master/0861-flipping-an-image) |
+| [2048-build-array-from-permutation](https://github.com/marindave/Leetcode-sol/tree/master/2048-build-array-from-permutation) |
 ## Math
 |  |
 | ------- |
