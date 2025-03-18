@@ -15,6 +15,7 @@
 | [1677-matrix-diagonal-sum](https://github.com/marindave/Leetcode-sol/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/marindave/Leetcode-sol/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/marindave/Leetcode-sol/tree/master/1833-find-the-highest-altitude) |
+| [1983-maximum-population-year](https://github.com/marindave/Leetcode-sol/tree/master/1983-maximum-population-year) |
 | [2048-build-array-from-permutation](https://github.com/marindave/Leetcode-sol/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/marindave/Leetcode-sol/tree/master/2058-concatenation-of-array) |
 ## Hash Table
@@ -31,11 +32,13 @@
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/marindave/Leetcode-sol/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/marindave/Leetcode-sol/tree/master/1635-number-of-good-pairs) |
+| [1983-maximum-population-year](https://github.com/marindave/Leetcode-sol/tree/master/1983-maximum-population-year) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/marindave/Leetcode-sol/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/marindave/Leetcode-sol/tree/master/1833-find-the-highest-altitude) |
+| [1983-maximum-population-year](https://github.com/marindave/Leetcode-sol/tree/master/1983-maximum-population-year) |
 ## Two Pointers
 |  |
 | ------- |
