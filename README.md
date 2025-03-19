@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/marindave/Leetcode-sol/tree/master/0001-two-sum) |
+| [0054-spiral-matrix](https://github.com/marindave/Leetcode-sol/tree/master/0054-spiral-matrix) |
 | [0861-flipping-an-image](https://github.com/marindave/Leetcode-sol/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/marindave/Leetcode-sol/tree/master/0898-transpose-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/marindave/Leetcode-sol/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -53,6 +54,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/marindave/Leetcode-sol/tree/master/0054-spiral-matrix) |
 | [0861-flipping-an-image](https://github.com/marindave/Leetcode-sol/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/marindave/Leetcode-sol/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/marindave/Leetcode-sol/tree/master/1677-matrix-diagonal-sum) |
@@ -60,6 +62,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/marindave/Leetcode-sol/tree/master/0054-spiral-matrix) |
 | [0861-flipping-an-image](https://github.com/marindave/Leetcode-sol/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/marindave/Leetcode-sol/tree/master/0898-transpose-matrix) |
 | [2048-build-array-from-permutation](https://github.com/marindave/Leetcode-sol/tree/master/2048-build-array-from-permutation) |
