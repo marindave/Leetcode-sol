@@ -27,6 +27,7 @@
 | [0001-two-sum](https://github.com/marindave/Leetcode-sol/tree/master/0001-two-sum) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/marindave/Leetcode-sol/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/marindave/Leetcode-sol/tree/master/1635-number-of-good-pairs) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/marindave/Leetcode-sol/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Sorting
 |  |
 | ------- |
@@ -73,4 +74,8 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/marindave/Leetcode-sol/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/marindave/Leetcode-sol/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/marindave/Leetcode-sol/tree/master/1635-number-of-good-pairs) |
+## String
+|  |
+| ------- |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/marindave/Leetcode-sol/tree/master/1960-check-if-the-sentence-is-pangram) |
 <!---LeetCode Topics End-->
