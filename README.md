@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/marindave/Leetcode-sol/tree/master/0001-two-sum) |
 | [0054-spiral-matrix](https://github.com/marindave/Leetcode-sol/tree/master/0054-spiral-matrix) |
+| [0283-move-zeroes](https://github.com/marindave/Leetcode-sol/tree/master/0283-move-zeroes) |
 | [0861-flipping-an-image](https://github.com/marindave/Leetcode-sol/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/marindave/Leetcode-sol/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/marindave/Leetcode-sol/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -48,6 +49,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/marindave/Leetcode-sol/tree/master/0283-move-zeroes) |
 | [0861-flipping-an-image](https://github.com/marindave/Leetcode-sol/tree/master/0861-flipping-an-image) |
 ## Bit Manipulation
 |  |
