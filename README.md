@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/marindave/Leetcode-sol/tree/master/0001-two-sum) |
 | [0054-spiral-matrix](https://github.com/marindave/Leetcode-sol/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/marindave/Leetcode-sol/tree/master/0066-plus-one) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/marindave/Leetcode-sol/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/marindave/Leetcode-sol/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/marindave/Leetcode-sol/tree/master/0283-move-zeroes) |
 | [0861-flipping-an-image](https://github.com/marindave/Leetcode-sol/tree/master/0861-flipping-an-image) |
@@ -88,4 +89,8 @@
 |  |
 | ------- |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/marindave/Leetcode-sol/tree/master/1960-check-if-the-sentence-is-pangram) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/marindave/Leetcode-sol/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
