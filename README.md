@@ -8,6 +8,7 @@
 | [0054-spiral-matrix](https://github.com/marindave/Leetcode-sol/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/marindave/Leetcode-sol/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/marindave/Leetcode-sol/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0189-rotate-array](https://github.com/marindave/Leetcode-sol/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/marindave/Leetcode-sol/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/marindave/Leetcode-sol/tree/master/0283-move-zeroes) |
 | [0861-flipping-an-image](https://github.com/marindave/Leetcode-sol/tree/master/0861-flipping-an-image) |
@@ -54,6 +55,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/marindave/Leetcode-sol/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/marindave/Leetcode-sol/tree/master/0283-move-zeroes) |
 | [0861-flipping-an-image](https://github.com/marindave/Leetcode-sol/tree/master/0861-flipping-an-image) |
 ## Bit Manipulation
@@ -81,6 +83,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/marindave/Leetcode-sol/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/marindave/Leetcode-sol/tree/master/0189-rotate-array) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/marindave/Leetcode-sol/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/marindave/Leetcode-sol/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/marindave/Leetcode-sol/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
