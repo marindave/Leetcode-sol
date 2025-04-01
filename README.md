@@ -83,6 +83,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/marindave/Leetcode-sol/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/marindave/Leetcode-sol/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/marindave/Leetcode-sol/tree/master/0189-rotate-array) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/marindave/Leetcode-sol/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/marindave/Leetcode-sol/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -96,4 +97,8 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/marindave/Leetcode-sol/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/marindave/Leetcode-sol/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
