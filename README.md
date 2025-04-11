@@ -34,6 +34,7 @@
 | [1983-maximum-population-year](https://github.com/marindave/Leetcode-sol/tree/master/1983-maximum-population-year) |
 | [2048-build-array-from-permutation](https://github.com/marindave/Leetcode-sol/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/marindave/Leetcode-sol/tree/master/2058-concatenation-of-array) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/marindave/Leetcode-sol/tree/master/2316-count-hills-and-valleys-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
