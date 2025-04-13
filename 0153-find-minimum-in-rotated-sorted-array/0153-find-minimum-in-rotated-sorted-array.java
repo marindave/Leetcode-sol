@@ -1,30 +1,24 @@
 class Solution {
     public int findMin(int[] nums) {
-        int pivot=findPivot(nums);
-     if(pivot==-1){
-         return nums[0];
-     }
-        return nums[pivot+1];
-     
-     
-    }
-    public static int findPivot(int[] nums){
-    int start=0;
-    int end=nums.length-1;
-    while(start<=end){
-        int mid=start+(end-start)/2;
-        if(mid<end&&nums[mid]>nums[mid+1]){
-            return mid;
-        }
-        if(mid>start&&nums[mid]<nums[mid-1]){
-            return mid-1;
-        }
-        if(nums[start]>=nums[mid]){
-            end=mid-1;
-        }else{
+      int n=nums.length;
+        int start=0;
+        int end=n-1;
+       //this code actually find the minima and all the two pointers will point to minima
+          
+        while(start<end){
+            
+            int mid=start+(end-start)/2;
+           if(nums[mid]>nums[end]){
+            //which means minimum will lie on the right side of mid
             start=mid+1;
-        }
+           }
+          else{
+            //which means minimum will lie on the left side of mid including mid also
+            end=mid;
+          }
+
     }
-    return -1;
-}
+    return nums[start];
+    }
+   
 }
