@@ -20,6 +20,7 @@
 | [0217-contains-duplicate](https://github.com/marindave/Leetcode-sol/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/marindave/Leetcode-sol/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/marindave/Leetcode-sol/tree/master/0540-single-element-in-a-sorted-array) |
+| [0643-maximum-average-subarray-i](https://github.com/marindave/Leetcode-sol/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/marindave/Leetcode-sol/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/marindave/Leetcode-sol/tree/master/0861-flipping-an-image) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/marindave/Leetcode-sol/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -126,4 +127,8 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/marindave/Leetcode-sol/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/marindave/Leetcode-sol/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/marindave/Leetcode-sol/tree/master/0882-peak-index-in-a-mountain-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/marindave/Leetcode-sol/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
