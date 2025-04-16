@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/marindave/Leetcode-sol/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/marindave/Leetcode-sol/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/marindave/Leetcode-sol/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/marindave/Leetcode-sol/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/marindave/Leetcode-sol/tree/master/0033-search-in-rotated-sorted-array) |
@@ -74,6 +75,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/marindave/Leetcode-sol/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/marindave/Leetcode-sol/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/marindave/Leetcode-sol/tree/master/0016-3sum-closest) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/marindave/Leetcode-sol/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -144,5 +146,6 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/marindave/Leetcode-sol/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/marindave/Leetcode-sol/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
