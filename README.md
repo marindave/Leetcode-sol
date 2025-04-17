@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/marindave/Leetcode-sol/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/marindave/Leetcode-sol/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/marindave/Leetcode-sol/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/marindave/Leetcode-sol/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/marindave/Leetcode-sol/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/marindave/Leetcode-sol/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/marindave/Leetcode-sol/tree/master/0035-search-insert-position) |
@@ -57,6 +58,7 @@
 | ------- |
 | [0015-3sum](https://github.com/marindave/Leetcode-sol/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/marindave/Leetcode-sol/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/marindave/Leetcode-sol/tree/master/0018-4sum) |
 | [0217-contains-duplicate](https://github.com/marindave/Leetcode-sol/tree/master/0217-contains-duplicate) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/marindave/Leetcode-sol/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
@@ -78,6 +80,7 @@
 | [0011-container-with-most-water](https://github.com/marindave/Leetcode-sol/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/marindave/Leetcode-sol/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/marindave/Leetcode-sol/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/marindave/Leetcode-sol/tree/master/0018-4sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/marindave/Leetcode-sol/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/marindave/Leetcode-sol/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/marindave/Leetcode-sol/tree/master/0283-move-zeroes) |
