@@ -27,6 +27,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/marindave/Leetcode-sol/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/marindave/Leetcode-sol/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/marindave/Leetcode-sol/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/marindave/Leetcode-sol/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/marindave/Leetcode-sol/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/marindave/Leetcode-sol/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/marindave/Leetcode-sol/tree/master/0643-maximum-average-subarray-i) |
@@ -55,6 +56,7 @@
 | [0001-two-sum](https://github.com/marindave/Leetcode-sol/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/marindave/Leetcode-sol/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/marindave/Leetcode-sol/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/marindave/Leetcode-sol/tree/master/0349-intersection-of-two-arrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/marindave/Leetcode-sol/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/marindave/Leetcode-sol/tree/master/1635-number-of-good-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/marindave/Leetcode-sol/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -66,6 +68,7 @@
 | [0018-4sum](https://github.com/marindave/Leetcode-sol/tree/master/0018-4sum) |
 | [0217-contains-duplicate](https://github.com/marindave/Leetcode-sol/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/marindave/Leetcode-sol/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/marindave/Leetcode-sol/tree/master/0349-intersection-of-two-arrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/marindave/Leetcode-sol/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
@@ -91,6 +94,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/marindave/Leetcode-sol/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/marindave/Leetcode-sol/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/marindave/Leetcode-sol/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/marindave/Leetcode-sol/tree/master/0349-intersection-of-two-arrays) |
 | [0861-flipping-an-image](https://github.com/marindave/Leetcode-sol/tree/master/0861-flipping-an-image) |
 ## Bit Manipulation
 |  |
@@ -153,6 +157,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/marindave/Leetcode-sol/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/marindave/Leetcode-sol/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/marindave/Leetcode-sol/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/marindave/Leetcode-sol/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/marindave/Leetcode-sol/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/marindave/Leetcode-sol/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/marindave/Leetcode-sol/tree/master/0792-binary-search) |
