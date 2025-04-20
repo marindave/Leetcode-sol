@@ -5,30 +5,31 @@ class Solution {
        Arrays.sort(nums2);
        int n=nums1.length;
        int m=nums2.length;
-       int i=0;
-       int j=0;
-       while(i<n && j<m){
+       for(int i=0;i<n;i++){
         if(i>0&&nums1[i]==nums1[i-1]){
-            i++;
             continue;
         }
-        if(nums1[i]==nums2[j]){
-            list.add(nums1[i]);
-            i++;
-            j++;
-        }
-        if(i<n&&j<m&&nums1[i]<nums2[j]){
-            i++;
-        }else if(i<n&&j<m&&nums1[i]>nums2[j]){
-            j++;
+       int target=nums1[i];
+        int start=0;
+       int end=m-1;
+        while(start<=end){
+           int mid=start+(end-start)/2;
+            if(target==nums2[mid]){
+                list.add(target);
+                break;
+            }
+            if(target>nums2[mid]){
+                start=mid+1;
+            }else{
+                end=mid-1;
+            }
         }
        }
-       
-        
-        int[] array=new int[list.size()];
+       int[] array=new int[list.size()];
         for (int p= 0; p < list.size(); p++) {
             array[p] = list.get(p);
         }
         return array;
+       
     }
 }
