@@ -135,6 +135,7 @@
 | [0069-sqrtx](https://github.com/marindave/Leetcode-sol/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/marindave/Leetcode-sol/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/marindave/Leetcode-sol/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/marindave/Leetcode-sol/tree/master/0367-valid-perfect-square) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/marindave/Leetcode-sol/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/marindave/Leetcode-sol/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/marindave/Leetcode-sol/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -165,6 +166,7 @@
 | [0268-missing-number](https://github.com/marindave/Leetcode-sol/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/marindave/Leetcode-sol/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/marindave/Leetcode-sol/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/marindave/Leetcode-sol/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/marindave/Leetcode-sol/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/marindave/Leetcode-sol/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/marindave/Leetcode-sol/tree/master/0792-binary-search) |
