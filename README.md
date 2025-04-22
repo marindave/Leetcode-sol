@@ -46,6 +46,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/marindave/Leetcode-sol/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/marindave/Leetcode-sol/tree/master/1635-number-of-good-pairs) |
 | [1677-matrix-diagonal-sum](https://github.com/marindave/Leetcode-sol/tree/master/1677-matrix-diagonal-sum) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/marindave/Leetcode-sol/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1791-richest-customer-wealth](https://github.com/marindave/Leetcode-sol/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/marindave/Leetcode-sol/tree/master/1833-find-the-highest-altitude) |
 | [1983-maximum-population-year](https://github.com/marindave/Leetcode-sol/tree/master/1983-maximum-population-year) |
@@ -74,6 +75,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/marindave/Leetcode-sol/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/marindave/Leetcode-sol/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/marindave/Leetcode-sol/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/marindave/Leetcode-sol/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Counting Sort
 |  |
 | ------- |
@@ -172,6 +174,7 @@
 | [0792-binary-search](https://github.com/marindave/Leetcode-sol/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/marindave/Leetcode-sol/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/marindave/Leetcode-sol/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/marindave/Leetcode-sol/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Sliding Window
 |  |
 | ------- |
