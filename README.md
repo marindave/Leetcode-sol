@@ -41,6 +41,7 @@
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/marindave/Leetcode-sol/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/marindave/Leetcode-sol/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/marindave/Leetcode-sol/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/marindave/Leetcode-sol/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/marindave/Leetcode-sol/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/marindave/Leetcode-sol/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/marindave/Leetcode-sol/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -63,6 +64,7 @@
 | [0268-missing-number](https://github.com/marindave/Leetcode-sol/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/marindave/Leetcode-sol/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/marindave/Leetcode-sol/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/marindave/Leetcode-sol/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/marindave/Leetcode-sol/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/marindave/Leetcode-sol/tree/master/1635-number-of-good-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/marindave/Leetcode-sol/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -76,6 +78,7 @@
 | [0268-missing-number](https://github.com/marindave/Leetcode-sol/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/marindave/Leetcode-sol/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/marindave/Leetcode-sol/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/marindave/Leetcode-sol/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/marindave/Leetcode-sol/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/marindave/Leetcode-sol/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Counting Sort
@@ -106,6 +109,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/marindave/Leetcode-sol/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/marindave/Leetcode-sol/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0861-flipping-an-image](https://github.com/marindave/Leetcode-sol/tree/master/0861-flipping-an-image) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/marindave/Leetcode-sol/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -179,6 +183,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/marindave/Leetcode-sol/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/marindave/Leetcode-sol/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/marindave/Leetcode-sol/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/marindave/Leetcode-sol/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/marindave/Leetcode-sol/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/marindave/Leetcode-sol/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Sliding Window
