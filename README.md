@@ -25,6 +25,7 @@
 | [0189-rotate-array](https://github.com/marindave/Leetcode-sol/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/marindave/Leetcode-sol/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/marindave/Leetcode-sol/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/marindave/Leetcode-sol/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/marindave/Leetcode-sol/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/marindave/Leetcode-sol/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/marindave/Leetcode-sol/tree/master/0283-move-zeroes) |
@@ -61,6 +62,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/marindave/Leetcode-sol/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/marindave/Leetcode-sol/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/marindave/Leetcode-sol/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/marindave/Leetcode-sol/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/marindave/Leetcode-sol/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/marindave/Leetcode-sol/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -190,6 +192,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/marindave/Leetcode-sol/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/marindave/Leetcode-sol/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/marindave/Leetcode-sol/tree/master/0643-maximum-average-subarray-i) |
 ## Greedy
 |  |
