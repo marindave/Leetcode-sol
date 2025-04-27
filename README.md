@@ -49,6 +49,7 @@
 | [1580-shuffle-the-array](https://github.com/marindave/Leetcode-sol/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/marindave/Leetcode-sol/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/marindave/Leetcode-sol/tree/master/1635-number-of-good-pairs) |
+| [1646-kth-missing-positive-number](https://github.com/marindave/Leetcode-sol/tree/master/1646-kth-missing-positive-number) |
 | [1677-matrix-diagonal-sum](https://github.com/marindave/Leetcode-sol/tree/master/1677-matrix-diagonal-sum) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/marindave/Leetcode-sol/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1791-richest-customer-wealth](https://github.com/marindave/Leetcode-sol/tree/master/1791-richest-customer-wealth) |
@@ -187,6 +188,7 @@
 | [0882-peak-index-in-a-mountain-array](https://github.com/marindave/Leetcode-sol/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/marindave/Leetcode-sol/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/marindave/Leetcode-sol/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1646-kth-missing-positive-number](https://github.com/marindave/Leetcode-sol/tree/master/1646-kth-missing-positive-number) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/marindave/Leetcode-sol/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Sliding Window
 |  |
