@@ -58,6 +58,7 @@
 | [2048-build-array-from-permutation](https://github.com/marindave/Leetcode-sol/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/marindave/Leetcode-sol/tree/master/2058-concatenation-of-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/marindave/Leetcode-sol/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/marindave/Leetcode-sol/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/marindave/Leetcode-sol/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Hash Table
 |  |
@@ -99,6 +100,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/marindave/Leetcode-sol/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/marindave/Leetcode-sol/tree/master/1833-find-the-highest-altitude) |
 | [1983-maximum-population-year](https://github.com/marindave/Leetcode-sol/tree/master/1983-maximum-population-year) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/marindave/Leetcode-sol/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -191,12 +193,14 @@
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/marindave/Leetcode-sol/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/marindave/Leetcode-sol/tree/master/1646-kth-missing-positive-number) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/marindave/Leetcode-sol/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/marindave/Leetcode-sol/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Sliding Window
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/marindave/Leetcode-sol/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/marindave/Leetcode-sol/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/marindave/Leetcode-sol/tree/master/0643-maximum-average-subarray-i) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/marindave/Leetcode-sol/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Greedy
 |  |
 | ------- |
