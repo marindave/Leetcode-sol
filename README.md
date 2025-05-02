@@ -34,6 +34,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/marindave/Leetcode-sol/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/marindave/Leetcode-sol/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/marindave/Leetcode-sol/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/marindave/Leetcode-sol/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/marindave/Leetcode-sol/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/marindave/Leetcode-sol/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/marindave/Leetcode-sol/tree/master/0792-binary-search) |
@@ -72,6 +73,7 @@
 | [0268-missing-number](https://github.com/marindave/Leetcode-sol/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/marindave/Leetcode-sol/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/marindave/Leetcode-sol/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/marindave/Leetcode-sol/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/marindave/Leetcode-sol/tree/master/0966-binary-subarrays-with-sum) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/marindave/Leetcode-sol/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/marindave/Leetcode-sol/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -101,6 +103,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/marindave/Leetcode-sol/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/marindave/Leetcode-sol/tree/master/0410-split-array-largest-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/marindave/Leetcode-sol/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/marindave/Leetcode-sol/tree/master/0713-subarray-product-less-than-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/marindave/Leetcode-sol/tree/master/0966-binary-subarrays-with-sum) |
 | [1603-running-sum-of-1d-array](https://github.com/marindave/Leetcode-sol/tree/master/1603-running-sum-of-1d-array) |
