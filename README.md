@@ -63,6 +63,7 @@
 | [2058-concatenation-of-array](https://github.com/marindave/Leetcode-sol/tree/master/2058-concatenation-of-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/marindave/Leetcode-sol/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/marindave/Leetcode-sol/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2634-minimum-common-value](https://github.com/marindave/Leetcode-sol/tree/master/2634-minimum-common-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/marindave/Leetcode-sol/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/marindave/Leetcode-sol/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/marindave/Leetcode-sol/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -81,6 +82,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/marindave/Leetcode-sol/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/marindave/Leetcode-sol/tree/master/1635-number-of-good-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/marindave/Leetcode-sol/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2634-minimum-common-value](https://github.com/marindave/Leetcode-sol/tree/master/2634-minimum-common-value) |
 ## Sorting
 |  |
 | ------- |
@@ -129,6 +131,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/marindave/Leetcode-sol/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0861-flipping-an-image](https://github.com/marindave/Leetcode-sol/tree/master/0861-flipping-an-image) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/marindave/Leetcode-sol/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2634-minimum-common-value](https://github.com/marindave/Leetcode-sol/tree/master/2634-minimum-common-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/marindave/Leetcode-sol/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
 |  |
@@ -211,6 +214,7 @@
 | [1646-kth-missing-positive-number](https://github.com/marindave/Leetcode-sol/tree/master/1646-kth-missing-positive-number) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/marindave/Leetcode-sol/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/marindave/Leetcode-sol/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2634-minimum-common-value](https://github.com/marindave/Leetcode-sol/tree/master/2634-minimum-common-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/marindave/Leetcode-sol/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Sliding Window
 |  |
