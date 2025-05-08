@@ -174,6 +174,7 @@
 | [0189-rotate-array](https://github.com/marindave/Leetcode-sol/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/marindave/Leetcode-sol/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/marindave/Leetcode-sol/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/marindave/Leetcode-sol/tree/master/0441-arranging-coins) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/marindave/Leetcode-sol/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/marindave/Leetcode-sol/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/marindave/Leetcode-sol/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -209,6 +210,7 @@
 | [0367-valid-perfect-square](https://github.com/marindave/Leetcode-sol/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/marindave/Leetcode-sol/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/marindave/Leetcode-sol/tree/master/0410-split-array-largest-sum) |
+| [0441-arranging-coins](https://github.com/marindave/Leetcode-sol/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/marindave/Leetcode-sol/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/marindave/Leetcode-sol/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/marindave/Leetcode-sol/tree/master/0792-binary-search) |
