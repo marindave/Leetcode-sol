@@ -67,6 +67,7 @@
 | [2634-minimum-common-value](https://github.com/marindave/Leetcode-sol/tree/master/2634-minimum-common-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/marindave/Leetcode-sol/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/marindave/Leetcode-sol/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3485-maximize-score-of-numbers-in-ranges](https://github.com/marindave/Leetcode-sol/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/marindave/Leetcode-sol/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Hash Table
 |  |
@@ -99,6 +100,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/marindave/Leetcode-sol/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/marindave/Leetcode-sol/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/marindave/Leetcode-sol/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3485-maximize-score-of-numbers-in-ranges](https://github.com/marindave/Leetcode-sol/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 ## Counting Sort
 |  |
 | ------- |
@@ -219,6 +221,7 @@
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/marindave/Leetcode-sol/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/marindave/Leetcode-sol/tree/master/2634-minimum-common-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/marindave/Leetcode-sol/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3485-maximize-score-of-numbers-in-ranges](https://github.com/marindave/Leetcode-sol/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 ## Sliding Window
 |  |
 | ------- |
@@ -234,6 +237,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/marindave/Leetcode-sol/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/marindave/Leetcode-sol/tree/master/0410-split-array-largest-sum) |
+| [3485-maximize-score-of-numbers-in-ranges](https://github.com/marindave/Leetcode-sol/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 ## Divide and Conquer
 |  |
 | ------- |
