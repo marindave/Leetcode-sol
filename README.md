@@ -67,6 +67,7 @@
 | [2634-minimum-common-value](https://github.com/marindave/Leetcode-sol/tree/master/2634-minimum-common-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/marindave/Leetcode-sol/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/marindave/Leetcode-sol/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/marindave/Leetcode-sol/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/marindave/Leetcode-sol/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/marindave/Leetcode-sol/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Hash Table
@@ -137,6 +138,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/marindave/Leetcode-sol/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2634-minimum-common-value](https://github.com/marindave/Leetcode-sol/tree/master/2634-minimum-common-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/marindave/Leetcode-sol/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/marindave/Leetcode-sol/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -223,6 +225,7 @@
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/marindave/Leetcode-sol/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/marindave/Leetcode-sol/tree/master/2634-minimum-common-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/marindave/Leetcode-sol/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/marindave/Leetcode-sol/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/marindave/Leetcode-sol/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 ## Sliding Window
 |  |
@@ -249,4 +252,8 @@
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/marindave/Leetcode-sol/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Enumeration
+|  |
+| ------- |
+| [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/marindave/Leetcode-sol/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 <!---LeetCode Topics End-->
